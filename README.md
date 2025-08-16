@@ -39,7 +39,7 @@ An AI-powered meeting notes summarizer and sharer built with React, Node.js, and
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KandulaSreelekha/AI-powered-meeting-notes-summarizer-and-sharer
    cd notes-summarizer
    ```
 
